@@ -69,15 +69,6 @@
 - Next.js 16（App Router）＋ React，靜態導出，自架 woff2 字型。
 - 深色／淺色雙模式，手機優先的直式介面。
 
-### 本地重構（需原始工程 repo）
-
-```bash
-# 原始工程（含 supabase/ 資料層）內
-cd apps/web
-NEXT_PUBLIC_DEMO=1 npm run build   # 產出 out/
-npx serve out                      # 本地預覽
-```
-
 ## 長期規劃
 
 - **Web-based SQLite** 取代 Supabase／內建資料：資料存於瀏覽器端 SQLite，可匯入匯出備份。
