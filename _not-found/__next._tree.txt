@@ -1,2 +1,2 @@
-:HL["/rental-cloud/_next/static/chunks/0wapt4_kg0tps.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Yq6IYS1kkUasiRIfgNZKQ"}
+:HL["/rental-payment/_next/static/chunks/0wapt4_kg0tps.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"8Jm_ed1ZBjW60_-qfuawI"}
