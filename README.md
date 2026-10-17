@@ -1,4 +1,4 @@
-# RentalCloud · 收租月表
+# RentalPayment · 收租月表
 
 個人租賃物業的收發款管理網頁。目前為**靜態互動 demo**（內建示範資料、免登入），
 長期規劃以 **Web-based SQLite** 作為資料庫，可部署在自己的手機上離線運轉。
