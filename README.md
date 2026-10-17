@@ -71,5 +71,5 @@
 
 ## 長期規劃
 
-- **Web-based SQLite** 取代 Supabase／內建資料：資料存於瀏覽器端 SQLite，可匯入匯出備份。
+- **Web-based SQLite** 內建資料：資料存於瀏覽器端 SQLite，可匯入匯出備份。
 - 部署於自己的手機即可離線運轉（PWA 化），不依賴雲端。
